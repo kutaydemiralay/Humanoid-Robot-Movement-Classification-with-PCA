@@ -90,11 +90,8 @@ Future improvements could involve using more diverse training data or alternativ
 
 ## Full Report
 
-The full PDF report is available in the repository: [report.pdf](./report.pdf)
+The full PDF report is available in the repository: [report2.pdf](./report2.pdf)
 
-## Acknowledgements
-
-Thanks to Po, Shavey, and Emoji for valuable discussions, and to Professor Eli for lectures, office hours, and code support.
 
 ## References
 
