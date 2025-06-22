@@ -1,4 +1,4 @@
-# AMATH 582 – Homework 2: Humanoid Robot Movement Classification with PCA
+# Humanoid Robot Movement Classification with PCA
 
 **Author:** Kutay Demiralay  
 **Department of Aeronautics and Astronautics, University of Washington, Seattle, WA**
